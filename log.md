@@ -8,3 +8,8 @@
 - **Today's Progress**: Fixed skin option functionality
 - **Thoughts**: Logic error is the most important, even you use sophisticated IDE it won't fix your errors
 - **Link to work**: [Dwohoo.com](https://dwohoo.com)
+
+### Day 0: January 5, 2017
+- **Today's Progress**: Init module `ELPSA` for `LRS Engine`
+- **Thoughts**: Module in `LRS Engine` is just like *plugin* in `WordPress`, allows you to scale up our web apps.
+- **Link to work**: [ELPSA](http://elpsa.org)
