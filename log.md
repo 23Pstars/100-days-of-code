@@ -13,3 +13,8 @@
 - **Today's Progress**: Init module `ELPSA` for `LRS Engine`
 - **Thoughts**: Module in `LRS Engine` is just like *plugin* in `WordPress`, allows you to scale up our web apps.
 - **Link to work**: [ELPSA](http://elpsa.org)
+
+### Day 1: January 6, 2017
+- **Today's Progress**: Still crafting admin feature for `ELPSA`
+- **Thoughts**: Need an improvement for script-linked each page inside dashboard admin system.
+- **Link to work**: [ELPSA](http://elpsa.org)
