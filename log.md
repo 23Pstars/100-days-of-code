@@ -23,3 +23,8 @@
 - **Today's Progress**: Continue my thesis project
 - **Thoughts**: Reformatting C structure program.
 - **Link to work**: [C BMP](https://github.com/23Pstars/c-bmp)
+
+### Day 2: January 7, 2017
+- **Today's Progress**: Continue my thesis project
+- **Thoughts**: Pointer make your head spinning as always.
+- **Link to work**: [C BMP](https://github.com/23Pstars/c-bmp)
