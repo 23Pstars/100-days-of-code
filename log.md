@@ -28,3 +28,8 @@
 - **Today's Progress**: Continue my thesis project
 - **Thoughts**: Pointer make your head spinning as always.
 - **Link to work**: [C BMP](https://github.com/23Pstars/c-bmp)
+
+### Day 3: January 8, 2017
+- **Today's Progress**: Fixed skin option functionality
+- **Thoughts**: Re-check and dynamically load all of static declared variable.
+- **Link to work**: [Lastonetours.com](http://lastonetours.com)
