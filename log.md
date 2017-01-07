@@ -33,3 +33,8 @@
 - **Today's Progress**: Fixed skin option functionality
 - **Thoughts**: Re-check and dynamically load all of static declared variable.
 - **Link to work**: [Lastonetours.com](http://lastonetours.com)
+
+### Day 3: January 6, 2018
+- **Today's Progress**: Build `facilitator` management page
+- **Thoughts**: Basic CRUD
+- **Link to work**: [ELPSA](http://elpsa.org)
