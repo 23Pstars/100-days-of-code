@@ -48,3 +48,8 @@
 - **Today's Progress**: Skin for `ELPSA`
 - **Thoughts**: Custom template for some pages.
 - **Link to work**: [ELPSA](http://elpsa.org)
+
+### Day 5: January 10, 2017
+- **Today's Progress**: Fixing module integration layout
+- **Thoughts**: Combining Foundation and Semantic-UI in one page.
+- **Link to work**: [Lastonetours.com](http://lastonetours.com)
