@@ -34,7 +34,12 @@
 - **Thoughts**: Re-check and dynamically load all of static declared variable.
 - **Link to work**: [Lastonetours.com](http://lastonetours.com)
 
-### Day 3: January 6, 2018
+### Day 3: January 8, 2017
 - **Today's Progress**: Build `facilitator` management page
 - **Thoughts**: Basic CRUD
 - **Link to work**: [ELPSA](http://elpsa.org)
+
+### Day 4: January 9, 2017
+- **Today's Progress**: Refactoring C BMP project
+- **Thoughts**: Still stuck on pointer of struct.
+- **Link to work**: [C BMP](https://github.com/23Pstars/c-bmp)
