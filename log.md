@@ -43,3 +43,8 @@
 - **Today's Progress**: Refactoring C BMP project
 - **Thoughts**: Still stuck on pointer of struct.
 - **Link to work**: [C BMP](https://github.com/23Pstars/c-bmp)
+
+### Day 4: January 9, 2017
+- **Today's Progress**: Skin for `ELPSA`
+- **Thoughts**: Custom template for some pages.
+- **Link to work**: [ELPSA](http://elpsa.org)
