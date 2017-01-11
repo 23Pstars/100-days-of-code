@@ -58,3 +58,8 @@
 - **Today's Progress**: Create custom link
 - **Thoughts**: Post template to other link, using post-metas.
 - **Link to work**: [KPU Mataram Kota](http://kpu-mataramkota.go.id)
+
+### Day 6: January 11, 2017
+- **Today's Progress**: Update documentation
+- **Thoughts**: Init documentation about Controllers.
+- **Link to work**: [LRsoft Docs](http://docs.lrsoft.id)
