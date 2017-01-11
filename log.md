@@ -63,3 +63,8 @@
 - **Today's Progress**: Update documentation
 - **Thoughts**: Init documentation about Controllers.
 - **Link to work**: [LRsoft Docs](http://docs.lrsoft.id)
+
+### Day 6: January 11, 2017
+- **Today's Progress**: Just solving tricky spacing
+- **Thoughts**: Access global variable to get looping steps.
+- **Link to work**: [30 Days of Code: Day 4](https://www.hackerrank.com/challenges/30-class-vs-instance)
