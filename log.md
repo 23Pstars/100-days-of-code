@@ -68,3 +68,7 @@
 - **Today's Progress**: Just solving tricky spacing
 - **Thoughts**: Access global variable to get looping steps.
 - **Link to work**: [30 Days of Code: Day 4](https://www.hackerrank.com/challenges/30-class-vs-instance)
+
+### Day 7: January 12, 2017
+- **Today's Progress**: DBStructure sync
+- **Thoughts**: Update DBStructure synchronization for all sites
