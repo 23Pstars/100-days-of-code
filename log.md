@@ -72,3 +72,8 @@
 ### Day 7: January 12, 2017
 - **Today's Progress**: DBStructure sync
 - **Thoughts**: Update DBStructure synchronization for all sites
+
+### Day 8: January 13, 2017
+- **Today's Progress**: Stack problem in C
+- **Thoughts**: Sometime 'easy' difficulty problem may different level with other programming language. C doesn't have full built in function to support us solving complex problems.
+- **Link to work**: [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant)
