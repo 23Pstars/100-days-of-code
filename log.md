@@ -77,3 +77,8 @@
 - **Today's Progress**: Stack problem in C
 - **Thoughts**: Sometime 'easy' difficulty problem may different level with other programming language. C doesn't have full built in function to support us solving complex problems.
 - **Link to work**: [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant)
+
+### Day 8: January 13, 2017
+- **Today's Progress**: Passing pointer of struct through function
+- **Thoughts**: Now I know differences of using `fread()` function, when you put output to variable member directly and when you pass through the struct at once.
+- **Link to work**: [C BMP](https://github.com/23Pstars/c-bmp)
