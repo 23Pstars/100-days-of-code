@@ -82,3 +82,8 @@
 - **Today's Progress**: Passing pointer of struct through function
 - **Thoughts**: Now I know differences of using `fread()` function, when you put output to variable member directly and when you pass through the struct at once.
 - **Link to work**: [C BMP](https://github.com/23Pstars/c-bmp)
+
+### Day 8: January 13, 2017
+- **Today's Progress**: Breakdown main function
+- **Thoughts**: Split some part of function into few little part, this is so efficient for debugging purpose.
+- **Link to work**: [C BMP](https://github.com/23Pstars/c-bmp)
