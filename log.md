@@ -87,3 +87,7 @@
 - **Today's Progress**: Breakdown main function
 - **Thoughts**: Split some part of function into few little part, this is so efficient for debugging purpose.
 - **Link to work**: [C BMP](https://github.com/23Pstars/c-bmp)
+
+### Day 9: January 14, 2017
+- **Today's Progress**: Working on `LRS Engine` remote tools
+- **Thoughts**: Building engine installer and updater for multiple site at once.
