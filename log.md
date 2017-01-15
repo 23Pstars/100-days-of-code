@@ -95,3 +95,8 @@
 ### Day 10: January 15, 2017
 - **Today's Progress**: Still working on `LRS Engine` remote tools
 - **Thoughts**: Translate all assets (CSS/JS) into single PHP script.
+
+### Day 10: January 15, 2017
+- **Today's Progress**: Custom WP page to displaying WordPress multi-sites domain
+- **Thoughts**: Create home page that display all of sub-site available.
+- **Link to work**: [Beta WP](http://beta-wp.lrsoft.org)
