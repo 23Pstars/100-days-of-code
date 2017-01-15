@@ -91,3 +91,7 @@
 ### Day 9: January 14, 2017
 - **Today's Progress**: Working on `LRS Engine` remote tools
 - **Thoughts**: Building engine installer and updater for multiple site at once.
+
+### Day 10: January 15, 2017
+- **Today's Progress**: Still working on `LRS Engine` remote tools
+- **Thoughts**: Translate all assets (CSS/JS) into single PHP script.
