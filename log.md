@@ -105,3 +105,8 @@
 - **Today's Progress**: Taken the 11th day of Hackerrank
 - **Thoughts**: Solved 2D arrays problems.
 - **Link to work**: [Day 11: 2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays)
+
+### Day 11: January 16, 2017
+- **Today's Progress**: Re-taken the 9th day of Hackerrank
+- **Thoughts**: Solved recursion problems.
+- **Link to work**: [Day 9: Recursion](https://www.hackerrank.com/challenges/30-recursion)
