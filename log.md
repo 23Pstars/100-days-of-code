@@ -114,4 +114,9 @@
 ### Day 12: January 17, 2017
 - **Today's Progress**: Taken one issue on Hackerrank
 - **Thoughts**: Solved another recursion problem.
-- **Link to work**: [Day 9: Recursion](https://www.hackerrank.com/challenges/divisible-sum-pairs)
+- **Link to work**: [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs)
+
+### Day 12: January 17, 2017
+- **Today's Progress**: Taken one issue on Hackerrank
+- **Thoughts**: Solved inheritance problems in OOP.
+- **Link to work**: [Day 12: Inheritance](https://www.hackerrank.com/challenges/30-inheritance)
