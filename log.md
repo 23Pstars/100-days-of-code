@@ -110,3 +110,8 @@
 - **Today's Progress**: Re-taken the 9th day of Hackerrank
 - **Thoughts**: Solved recursion problems.
 - **Link to work**: [Day 9: Recursion](https://www.hackerrank.com/challenges/30-recursion)
+
+### Day 12: January 17, 2017
+- **Today's Progress**: Taken one issue on Hackerrank
+- **Thoughts**: Solved another recursion problem.
+- **Link to work**: [Day 9: Recursion](https://www.hackerrank.com/challenges/divisible-sum-pairs)
