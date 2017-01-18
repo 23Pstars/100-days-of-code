@@ -120,3 +120,8 @@
 - **Today's Progress**: Taken one issue on Hackerrank
 - **Thoughts**: Solved inheritance problems in OOP.
 - **Link to work**: [Day 12: Inheritance](https://www.hackerrank.com/challenges/30-inheritance)
+
+### Day 13: January 19, 2017
+- **Today's Progress**: Taken one issue on Hackerrank
+- **Thoughts**: Solved abstract problems in OOP.
+- **Link to work**: [Day 13: Abstracts](https://www.hackerrank.com/challenges/30-abstract-classes)
