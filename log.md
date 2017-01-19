@@ -125,3 +125,8 @@
 - **Today's Progress**: Taken one issue on Hackerrank
 - **Thoughts**: Solved abstract problems in OOP.
 - **Link to work**: [Day 13: Abstracts](https://www.hackerrank.com/challenges/30-abstract-classes)
+
+### Day 13: January 19, 2017
+- **Today's Progress**: Finished custom height of BMP image
+- **Thoughts**: Use meta info to manipulate BMP height and size.
+- **Link to work**: [C BMP](https://github.com/23Pstars/c-bmp)
