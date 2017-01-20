@@ -130,3 +130,8 @@
 - **Today's Progress**: Finished custom height of BMP image
 - **Thoughts**: Use meta info to manipulate BMP height and size.
 - **Link to work**: [C BMP](https://github.com/23Pstars/c-bmp)
+
+### Day 14: January 20, 2017
+- **Today's Progress**: Taken one issue on Hackerrank
+- **Thoughts**: Solving diagonal differences
+- **Link to work**: [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference)
