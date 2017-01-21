@@ -135,3 +135,8 @@
 - **Today's Progress**: Taken one issue on Hackerrank
 - **Thoughts**: Solving diagonal differences
 - **Link to work**: [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference)
+
+### Day 15: January 21, 2017
+- **Today's Progress**: Taken one issue on Hackerrank
+- **Thoughts**: Solving exception problems, this things dowsn't even need in PHP
+- **Link to work**: [Day 16: Exceptions - String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer)
