@@ -140,3 +140,12 @@
 - **Today's Progress**: Taken one issue on Hackerrank
 - **Thoughts**: Solving exception problems, this things dowsn't even need in PHP
 - **Link to work**: [Day 16: Exceptions - String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer)
+
+### Day 16: January 22, 2017
+- **Today's Progress**: Working on `LRS Engine` new file system structures
+- **Thoughts**: Refine all static and public variables.
+
+### Day 17: January 23, 2017
+- **Today's Progress**: Taken one issue on Hackerrank
+- **Thoughts**: Solving simple linked list in Java, and my head spinning o.O
+- **Link to work**: [Day 15: Linked List](https://www.hackerrank.com/challenges/30-linked-list)
