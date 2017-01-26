@@ -149,3 +149,8 @@
 - **Today's Progress**: Taken one issue on Hackerrank
 - **Thoughts**: Solving simple linked list in Java, and my head spinning o.O
 - **Link to work**: [Day 15: Linked List](https://www.hackerrank.com/challenges/30-linked-list)
+
+### Day 18: January 26, 2017
+- **Today's Progress**: GitHub pages with Jekyll
+- **Thoughts**: Finish my first web blog with jekyll on github page.
+- **Link to work**: [Devs at ELPSA.org](http://devs.elpsa.org)
