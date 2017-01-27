@@ -154,3 +154,8 @@
 - **Today's Progress**: GitHub pages with Jekyll
 - **Thoughts**: Finish my first web blog with jekyll on github page.
 - **Link to work**: [Devs at ELPSA.org](http://devs.elpsa.org)
+
+### Day 19: January 27, 2017
+- **Today's Progress**: Taken one issue on Hackerrank
+- **Thoughts**: Solving throw exception problems
+- **Link to work**: [Day 17: More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions)
