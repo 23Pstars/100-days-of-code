@@ -159,3 +159,8 @@
 - **Today's Progress**: Taken one issue on Hackerrank
 - **Thoughts**: Solving throw exception problems
 - **Link to work**: [Day 17: More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions)
+
+### Day 20: January 28, 2017
+- **Today's Progress**: Update skin for `ELPSA`
+- **Thoughts**: Add new page template for `resources`.
+- **Link to work**: [ELPSA](http://elpsa.org)
