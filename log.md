@@ -164,3 +164,8 @@
 - **Today's Progress**: Update skin for `ELPSA`
 - **Thoughts**: Add new page template for `resources`.
 - **Link to work**: [ELPSA](http://elpsa.org)
+
+### Day 21: January 29, 2017
+- **Today's Progress**: Taken one issue on Hackerrank
+- **Thoughts**: Re-solving stack and queue problems using Node class
+- **Link to work**: [Day 18: Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks)
