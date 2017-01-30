@@ -169,3 +169,7 @@
 - **Today's Progress**: Taken one issue on Hackerrank
 - **Thoughts**: Re-solving stack and queue problems using Node class
 - **Link to work**: [Day 18: Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks)
+
+### Day 22: January 30, 2017
+- **Today's Progress**: Taken one issue on freeCodeCamp
+- **Thoughts**: Just start basic algorithm scripting problems.
