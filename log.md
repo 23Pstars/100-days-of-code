@@ -173,3 +173,8 @@
 ### Day 22: January 30, 2017
 - **Today's Progress**: Taken one issue on freeCodeCamp
 - **Thoughts**: Just start basic algorithm scripting problems.
+
+### Day 22: January 30, 2017
+- **Today's Progress**: Finished issue on freeCodeCamp
+- **Thoughts**: And I just finish the basic algorithm scripting problems.
+- **Link to work**: [Basic Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseBasicAlgorithmScripting)
