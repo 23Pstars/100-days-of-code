@@ -178,3 +178,8 @@
 - **Today's Progress**: Finished issue on freeCodeCamp
 - **Thoughts**: And I just finish the basic algorithm scripting problems.
 - **Link to work**: [Basic Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseBasicAlgorithmScripting)
+
+### Day 23: January 31, 2017
+- **Today's Progress**: Finished issue on freeCodeCamp
+- **Thoughts**: Just finished to build random quote machine.
+- **Link to work**: [Random Quote Machine](http://codepen.io/23Pstars/full/ygprEK/)
