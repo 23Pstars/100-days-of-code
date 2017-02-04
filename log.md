@@ -183,3 +183,8 @@
 - **Today's Progress**: Finished issue on freeCodeCamp
 - **Thoughts**: Just finished to build random quote machine.
 - **Link to work**: [Random Quote Machine](http://codepen.io/23Pstars/full/ygprEK/)
+
+### Day 24: February 4, 2017
+- **Today's Progress**: Finished issue on hackerrank
+- **Thoughts**: Just learning about Generic Construct
+- **Link to work**: [Day 21: Generics](https://www.hackerrank.com/challenges/30-generics)
