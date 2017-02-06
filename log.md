@@ -186,9 +186,14 @@
 
 ### Day 24: February 4, 2017
 - **Today's Progress**: Finished issue on hackerrank
-- **Thoughts**: Just learning about Generic Construct
+- **Thoughts**: Just learning about Generic Construct.
 - **Link to work**: [Day 21: Generics](https://www.hackerrank.com/challenges/30-generics)
 
 ### Day 25: February 5, 2017
 - **Today's Progress**: Learning React
 - **Thoughts**: Start to learn about ReactJS in preparing to build my private project.
+
+### Day 26: January 7, 2017
+- **Today's Progress**: Finished one feature on `ELPSA`
+- **Thoughts**: Add new management page `aktifitas`.
+- **Link to work**: [ELPSA](http://elpsa.org)
