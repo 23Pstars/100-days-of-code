@@ -197,3 +197,12 @@
 - **Today's Progress**: Finished one feature on `ELPSA`
 - **Thoughts**: Add new management page `aktifitas`.
 - **Link to work**: [ELPSA](http://elpsa.org)
+
+### Day 26: January 7, 2017
+- **Today's Progress**: Finished one lesson on `freeCodeCamp`
+- **Thoughts**: Finishing responsive web design with Bootstrap
+
+### Day 26: January 7, 2017
+- **Today's Progress**: Finished one challenge on `Dicoding`
+- **Thoughts**: Finishing LINE Chat Academy.
+- **Link to work**: [LINE ChatBot Academy](https://www.dicoding.com/academies/32)
