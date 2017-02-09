@@ -206,3 +206,7 @@
 - **Today's Progress**: Finished one challenge on `Dicoding`
 - **Thoughts**: Finishing LINE Chat Academy.
 - **Link to work**: [LINE ChatBot Academy](https://www.dicoding.com/academies/32)
+
+### Day 27: January 9, 2017
+- **Today's Progress**: Finished one lesson on `freeCodeCamp`
+- **Thoughts**: Finishing jQuery.
