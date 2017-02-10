@@ -210,3 +210,8 @@
 ### Day 27: January 9, 2017
 - **Today's Progress**: Finished one lesson on `freeCodeCamp`
 - **Thoughts**: Finishing jQuery.
+
+### Day 28: January 10, 2017
+- **Today's Progress**: Finished one lesson on `freeCodeCamp`
+- **Thoughts**: Finishing to build personal portfolios webpage.
+- **Link to work**: [Personal Portfolios Webpage](http://codepen.io/23Pstars/full/rjqEjY/)
