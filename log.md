@@ -220,3 +220,7 @@
 - **Today's Progress**: Learning about Gulp
 - **Thoughts**: Build my personal wedding web page on github.
 - **Link to work**: [Zaf Wedding](https://zaf.web.id/wedding/)
+
+### Day 29: January 11, 2017
+- **Today's Progress**: Learning about PHPUnit
+- **Thoughts**: Implement unit test at my personal CMS.
