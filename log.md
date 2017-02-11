@@ -215,3 +215,8 @@
 - **Today's Progress**: Finished one lesson on `freeCodeCamp`
 - **Thoughts**: Finishing to build personal portfolios webpage.
 - **Link to work**: [Personal Portfolios Webpage](http://codepen.io/23Pstars/full/rjqEjY/)
+
+### Day 29: January 11, 2017
+- **Today's Progress**: Learning about Gulp
+- **Thoughts**: Build my personal wedding web page on github.
+- **Link to work**: [Zaf Wedding](https://zaf.web.id/wedding/)
