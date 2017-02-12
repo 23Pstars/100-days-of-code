@@ -224,3 +224,8 @@
 ### Day 29: January 11, 2017
 - **Today's Progress**: Learning about PHPUnit
 - **Thoughts**: Implement unit test at my personal CMS.
+
+### Day 30: January 12, 2017
+- **Today's Progress**: Taken one lesson on `freeCodeCamp`
+- **Thoughts**: Commit to new project Weather Apps
+- **Link to work**: [Weather Info](http://codepen.io/23Pstars/pen/NdeqLJ)
