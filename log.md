@@ -228,4 +228,9 @@
 ### Day 30: January 12, 2017
 - **Today's Progress**: Taken one lesson on `freeCodeCamp`
 - **Thoughts**: Commit to new project Weather Apps
-- **Link to work**: [Weather Info](http://codepen.io/23Pstars/pen/NdeqLJ)
+- **Link to work**: [Weather Info](http://codepen.io/23Pstars/full/NdeqLJ/)
+
+### Day 31: January 13, 2017
+- **Today's Progress**: Taken one lesson on `freeCodeCamp`
+- **Thoughts**: Finished the Weather Info project
+- **Link to work**: [Weather Info](http://codepen.io/23Pstars/full/NdeqLJ/)
