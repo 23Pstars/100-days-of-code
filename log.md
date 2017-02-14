@@ -193,44 +193,49 @@
 - **Today's Progress**: Learning React
 - **Thoughts**: Start to learn about ReactJS in preparing to build my private project.
 
-### Day 26: January 7, 2017
+### Day 26: February 7, 2017
 - **Today's Progress**: Finished one feature on `ELPSA`
 - **Thoughts**: Add new management page `aktifitas`.
 - **Link to work**: [ELPSA](http://elpsa.org)
 
-### Day 26: January 7, 2017
+### Day 26: February 7, 2017
 - **Today's Progress**: Finished one lesson on `freeCodeCamp`
 - **Thoughts**: Finishing responsive web design with Bootstrap
 
-### Day 26: January 7, 2017
+### Day 26: February 7, 2017
 - **Today's Progress**: Finished one challenge on `Dicoding`
 - **Thoughts**: Finishing LINE Chat Academy.
 - **Link to work**: [LINE ChatBot Academy](https://www.dicoding.com/academies/32)
 
-### Day 27: January 9, 2017
+### Day 27: February 9, 2017
 - **Today's Progress**: Finished one lesson on `freeCodeCamp`
 - **Thoughts**: Finishing jQuery.
 
-### Day 28: January 10, 2017
+### Day 28: February 10, 2017
 - **Today's Progress**: Finished one lesson on `freeCodeCamp`
 - **Thoughts**: Finishing to build personal portfolios webpage.
 - **Link to work**: [Personal Portfolios Webpage](http://codepen.io/23Pstars/full/rjqEjY/)
 
-### Day 29: January 11, 2017
+### Day 29: February 11, 2017
 - **Today's Progress**: Learning about Gulp
 - **Thoughts**: Build my personal wedding web page on github.
 - **Link to work**: [Zaf Wedding](https://zaf.web.id/wedding/)
 
-### Day 29: January 11, 2017
+### Day 29: February 11, 2017
 - **Today's Progress**: Learning about PHPUnit
 - **Thoughts**: Implement unit test at my personal CMS.
 
-### Day 30: January 12, 2017
+### Day 30: February 12, 2017
 - **Today's Progress**: Taken one lesson on `freeCodeCamp`
 - **Thoughts**: Commit to new project Weather Apps
 - **Link to work**: [Weather Info](http://codepen.io/23Pstars/full/NdeqLJ/)
 
-### Day 31: January 13, 2017
+### Day 31: February 13, 2017
 - **Today's Progress**: Taken one lesson on `freeCodeCamp`
 - **Thoughts**: Finished the Weather Info project
 - **Link to work**: [Weather Info](http://codepen.io/23Pstars/full/NdeqLJ/)
+
+### Day 32: February 14, 2017
+- **Today's Progress**: Taken one lesson from `dicoding`
+- **Thoughts**: Commit some android project.
+- **Link to work**: [Belajar Membangun Aplikasi Android Native](https://www.dicoding.com/academies/26)
