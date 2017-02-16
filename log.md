@@ -239,3 +239,8 @@
 - **Today's Progress**: Taken one lesson from `dicoding`
 - **Thoughts**: Commit some android project.
 - **Link to work**: [Belajar Membangun Aplikasi Android Native](https://www.dicoding.com/academies/26)
+
+### Day 33: February 16, 2017
+- **Today's Progress**: Create DB cleaner for `wp_posts`
+- **Thoughts**: Used this script to clean our websites after adware attacks.
+- **Link to work**: [php-utils](https://github.com/23Pstars/php-utils)
