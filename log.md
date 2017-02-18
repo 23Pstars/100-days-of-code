@@ -244,3 +244,8 @@
 - **Today's Progress**: Create DB cleaner for `wp_posts`
 - **Thoughts**: Used this script to clean our websites after adware attacks.
 - **Link to work**: [php-utils](https://github.com/23Pstars/php-utils)
+
+### Day 34: February 18, 2017
+- **Today's Progress**: Continue my thesis project
+- **Thoughts**: Refine correlation algorithm code.
+- **Link to work**: [C BMP](https://github.com/23Pstars/c-bmp)
