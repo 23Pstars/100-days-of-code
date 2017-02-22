@@ -254,3 +254,8 @@
 - **Today's Progress**: Continue ELPSA project
 - **Thoughts**: Progress build module lists.
 - **Link to work**: [ELPSA](http://elpsa.org)
+
+### Day 36: February 22, 2017
+- **Today's Progress**: Learning Erlang
+- **Thoughts**: Just started learning.
+- **Link to work**: [Erlang Course](http://www.erlang.org/course)
