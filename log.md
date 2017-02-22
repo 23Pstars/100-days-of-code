@@ -259,3 +259,8 @@
 - **Today's Progress**: Learning Erlang
 - **Thoughts**: Just started learning.
 - **Link to work**: [Erlang Course](http://www.erlang.org/course)
+
+### Day 36: February 22, 2017
+- **Today's Progress**: Learning PHP7
+- **Thoughts**: Realize and discover new features in PHP7.
+- **Link to work**: [PHP7 New Features](http://php.net/manual/en/migration70.new-features.php)
