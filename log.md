@@ -269,3 +269,8 @@
 - **Today's Progress**: Continue ELPSA project
 - **Thoughts**: Progress build activity lists.
 - **Link to work**: [ELPSA](http://elpsa.org)
+
+### Day 38: February 25, 2017
+- **Today's Progress**: Taking Android Class
+- **Thoughts**: Actually re-taking android class on Dicoding.
+- **Link to work**: [Modul 3: Fragment](https://www.dicoding.com/academies/26/tutorials/608)
