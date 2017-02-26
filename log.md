@@ -279,3 +279,8 @@
 - **Today's Progress**: Continue ELPSA project
 - **Thoughts**: Create categorized posts in logs site.
 - **Link to work**: [Devs at ELPSA](http://devs.elpsa.org)
+
+### Day 39: February 26, 2017
+- **Today's Progress**: Learning Swift
+- **Thoughts**: Taken one course on SoloLearn.com
+- **Link to work**: [SoloLearn](http://sololearn.com)
