@@ -274,3 +274,8 @@
 - **Today's Progress**: Taking Android Class
 - **Thoughts**: Actually re-taking android class on Dicoding.
 - **Link to work**: [Modul 3: Fragment](https://www.dicoding.com/academies/26/tutorials/608)
+
+### Day 39: February 26, 2017
+- **Today's Progress**: Continue ELPSA project
+- **Thoughts**: Create categorized posts in logs site.
+- **Link to work**: [Devs at ELPSA](http://devs.elpsa.org)
