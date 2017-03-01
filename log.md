@@ -284,3 +284,8 @@
 - **Today's Progress**: Learning Swift
 - **Thoughts**: Taken one course on SoloLearn.com
 - **Link to work**: [SoloLearn](http://sololearn.com)
+
+### Day 40: February 28, 2017
+- **Today's Progress**: Continue ELPSA project
+- **Thoughts**: Building a login functionalities.
+- **Link to work**: [ELPSA](http://elpsa.org)
