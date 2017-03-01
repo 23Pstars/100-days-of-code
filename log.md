@@ -289,3 +289,8 @@
 - **Today's Progress**: Continue ELPSA project
 - **Thoughts**: Building a login functionalities.
 - **Link to work**: [ELPSA](http://elpsa.org)
+
+### Day 41: March 1, 2017
+- **Today's Progress**: Taking Android course
+- **Thoughts**: Flexible UI.
+- **Link to work**: [Flexible UI](https://www.dicoding.com/academies/26/tutorials/611)
