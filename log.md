@@ -294,3 +294,8 @@
 - **Today's Progress**: Taking Android course
 - **Thoughts**: Flexible UI.
 - **Link to work**: [Flexible UI](https://www.dicoding.com/academies/26/tutorials/611)
+
+### Day 42: March 2, 2017
+- **Today's Progress**: Bug fixing on SIA UNRAM
+- **Thoughts**: Find the root problem that some students had, updating the rules.
+- **Link to work**: [SIA UNRAM](http://sia.unram.ac.id)
