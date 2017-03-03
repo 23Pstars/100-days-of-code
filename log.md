@@ -299,3 +299,8 @@
 - **Today's Progress**: Bug fixing on SIA UNRAM
 - **Thoughts**: Find the root problem that some students had, updating the rules.
 - **Link to work**: [SIA UNRAM](http://sia.unram.ac.id)
+
+### Day 43: March 3, 2017
+- **Today's Progress**: Bug fixing on SIA UNRAM
+- **Thoughts**: Find the root problem that some lecture can't confirm status KRS student.
+- **Link to work**: [SIA UNRAM](http://sia.unram.ac.id)
