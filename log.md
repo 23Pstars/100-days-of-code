@@ -304,3 +304,7 @@
 - **Today's Progress**: Bug fixing on SIA UNRAM
 - **Thoughts**: Find the root problem that some lecture can't confirm status KRS student.
 - **Link to work**: [SIA UNRAM](http://sia.unram.ac.id)
+
+### Day 44: March 4, 2017
+- **Today's Progress**: Build shared C-Object cross platform
+- **Thoughts**: Trying to build common library between macOS and Windows.
