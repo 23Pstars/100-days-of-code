@@ -308,3 +308,7 @@
 ### Day 44: March 4, 2017
 - **Today's Progress**: Build shared C-Object cross platform
 - **Thoughts**: Trying to build common library between macOS and Windows.
+
+### Day 45: March 5, 2017
+- **Today's Progress**: Telegram Bot
+- **Thoughts**: Learn to build and deploy a Telegram Bot on Zeit Now.
