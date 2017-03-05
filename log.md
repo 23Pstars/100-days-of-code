@@ -312,3 +312,8 @@
 ### Day 45: March 5, 2017
 - **Today's Progress**: Telegram Bot
 - **Thoughts**: Learn to build and deploy a Telegram Bot on Zeit Now.
+
+### Day 45: March 5, 2017
+- **Today's Progress**: Finishing Android course
+- **Thoughts**: Flexible UI.
+- **Link to work**: [Flexible UI](https://www.dicoding.com/academies/26/tutorials/611)
