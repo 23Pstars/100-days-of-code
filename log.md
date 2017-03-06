@@ -317,3 +317,8 @@
 - **Today's Progress**: Finishing Android course
 - **Thoughts**: Flexible UI.
 - **Link to work**: [Flexible UI](https://www.dicoding.com/academies/26/tutorials/611)
+
+### Day 46: March 6, 2017
+- **Today's Progress**: Learn Bot AI
+- **Thoughts**: Trying Wit.ai
+- **Link to work**: [Wit.ai](https://wit.ai)
