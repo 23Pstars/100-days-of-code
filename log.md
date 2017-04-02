@@ -326,3 +326,8 @@
 ### Day 47: April 2, 2017
 - **Today's Progress**: Progress fastboat bot
 - **Thoughts**: After long absent, try to start build fastboat crawler to fetching price from several websites
+
+### Day 47: April 2, 2017
+- **Today's Progress**: Refreshing react basic
+- **Thoughts**: Review react structures
+- **Link to work**: [React from Zero](https://github.com/kay-is/react-from-zero)
