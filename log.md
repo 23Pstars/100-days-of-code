@@ -331,3 +331,7 @@
 - **Today's Progress**: Refreshing react basic
 - **Thoughts**: Review react structures
 - **Link to work**: [React from Zero](https://github.com/kay-is/react-from-zero)
+
+### Day 47: April 2, 2017
+- **Today's Progress**: Taken one challenge on HR
+- **Thoughts**: Converting time format
