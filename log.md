@@ -322,3 +322,7 @@
 - **Today's Progress**: Learn Bot AI
 - **Thoughts**: Trying Wit.ai
 - **Link to work**: [Wit.ai](https://wit.ai)
+
+### Day 47: April 2, 2017
+- **Today's Progress**: Progress fastboat bot
+- **Thoughts**: After long absent, try to start build fastboat crawler to fetching price from several websites
