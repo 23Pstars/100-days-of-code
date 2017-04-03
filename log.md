@@ -335,3 +335,7 @@
 ### Day 47: April 2, 2017
 - **Today's Progress**: Taken one challenge on HR
 - **Thoughts**: Converting time format
+
+### Day 48: April 4, 2017
+- **Today's Progress**: Continue fastboat price bot
+- **Thoughts**: Finished to parse 4 sites
