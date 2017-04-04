@@ -336,6 +336,11 @@
 - **Today's Progress**: Taken one challenge on HR
 - **Thoughts**: Converting time format
 
-### Day 48: April 4, 2017
+### Day 48: April 3, 2017
 - **Today's Progress**: Continue fastboat price bot
 - **Thoughts**: Finished to parse 4 sites
+
+### Day 49: April 4, 2017
+- **Today's Progress**: Taken one challenge on HR
+- **Thoughts**: Caesar cipher
+- **Link to work**: [Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1?utm_campaign=challenge-recommendation&utm_medium=email&utm_source=24-hour-campaign)
