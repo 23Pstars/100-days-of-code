@@ -344,3 +344,8 @@
 - **Today's Progress**: Taken one challenge on HR
 - **Thoughts**: Caesar cipher
 - **Link to work**: [Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1?utm_campaign=challenge-recommendation&utm_medium=email&utm_source=24-hour-campaign)
+
+### Day 50: April 15, 2017
+- **Today's Progress**: Learning VueJS
+- **Thoughts**: Just refreshing knowledge
+- **Link to work**: [Vue JS - Mastering Web Apps](https://www.udemy.com/vue-web-apps/learn/v4/overview)
