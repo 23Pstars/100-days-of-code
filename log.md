@@ -349,3 +349,8 @@
 - **Today's Progress**: Learning VueJS
 - **Thoughts**: Just refreshing knowledge
 - **Link to work**: [Vue JS - Mastering Web Apps](https://www.udemy.com/vue-web-apps/learn/v4/overview)
+
+### Day 50: April 15, 2017
+- **Today's Progress**: Converting to Jekyll
+- **Thoughts**: Update my github pages with use of Jekyll
+- **Link to work**: [Me on GitHub](http://github.zaf.web.id)
