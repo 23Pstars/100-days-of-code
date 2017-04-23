@@ -354,3 +354,7 @@
 - **Today's Progress**: Converting to Jekyll
 - **Thoughts**: Update my github pages with use of Jekyll
 - **Link to work**: [Me on GitHub](http://github.zaf.web.id)
+
+### Day 51: April 23, 2017
+- **Today's Progress**: Learning LaTeX
+- **Thoughts**: Discover LaTeX through tutorials on the internet.
