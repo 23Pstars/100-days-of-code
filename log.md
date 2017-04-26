@@ -358,3 +358,11 @@
 ### Day 51: April 23, 2017
 - **Today's Progress**: Learning LaTeX
 - **Thoughts**: Discover LaTeX through tutorials on the internet.
+
+### Day 52: April 26, 2017
+- **Today's Progress**: Learning Swift
+- **Thoughts**: Continue learning Swift on sololearn.com
+
+### Day 52: April 26, 2017
+- **Today's Progress**: Learning VueJS
+- **Thoughts**: Continue learning VueJS on udemy.com
