@@ -366,3 +366,7 @@
 ### Day 52: April 26, 2017
 - **Today's Progress**: Learning VueJS
 - **Thoughts**: Continue learning VueJS on udemy.com
+
+### Day 53: May 1, 2017
+- **Today's Progress**: Learning Swift
+- **Thoughts**: Continue learning Swift on sololearn.com
