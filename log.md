@@ -370,3 +370,7 @@
 ### Day 53: May 1, 2017
 - **Today's Progress**: Learning Swift
 - **Thoughts**: Continue learning Swift on sololearn.com
+
+### Day 54: May 4, 2017
+- **Today's Progress**: Learning Cloudfoundry
+- **Thoughts**: Deploy apps on IBM Bluemix using Cloudfoundry.
