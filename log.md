@@ -374,3 +374,8 @@
 ### Day 54: May 4, 2017
 - **Today's Progress**: Learning Cloudfoundry
 - **Thoughts**: Deploy apps on IBM Bluemix using Cloudfoundry.
+
+### Day 55: May 5, 2017
+- **Today's Progress**: Build currency rate API
+- **Thoughts**: Finish my public API for currency rates.
+- **Link to work**: [Currency Rate](http://docs.lrsoft.id/api_service.html#currency-rate)
