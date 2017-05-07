@@ -384,3 +384,7 @@
 - **Today's Progress**: Build boat price API
 - **Thoughts**: Finish my public API for boat price Bali - Lombok - Gilis.
 - **Link to work**: [Currency Rate](http://docs.lrsoft.id/api_service.html#boat-price)
+
+### Day 57: May 7, 2017
+- **Today's Progress**: Learning VueJS
+- **Thoughts**: Continue learning VueJS on udemy.com
