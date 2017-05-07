@@ -379,3 +379,8 @@
 - **Today's Progress**: Build currency rate API
 - **Thoughts**: Finish my public API for currency rates.
 - **Link to work**: [Currency Rate](http://docs.lrsoft.id/api_service.html#currency-rate)
+
+### Day 56: May 6, 2017
+- **Today's Progress**: Build boat price API
+- **Thoughts**: Finish my public API for boat price Bali - Lombok - Gilis.
+- **Link to work**: [Currency Rate](http://docs.lrsoft.id/api_service.html#boat-price)
