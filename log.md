@@ -388,3 +388,8 @@
 ### Day 57: May 7, 2017
 - **Today's Progress**: Learning VueJS
 - **Thoughts**: Continue learning VueJS on udemy.com
+
+### Day 58: May 8, 2017
+- **Today's Progress**: Data crawler
+- **Thoughts**: PHP script for crawling data from plain HTML text
+- **Link to work**: [ASITA Bali](https://github.com/23Pstars/php-utils/blob/master/asitabali.php)
