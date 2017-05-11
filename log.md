@@ -393,3 +393,7 @@
 - **Today's Progress**: Data crawler
 - **Thoughts**: PHP script for crawling data from plain HTML text
 - **Link to work**: [ASITA Bali](https://github.com/23Pstars/php-utils/blob/master/asitabali.php)
+
+### Day 59: May 11, 2017
+- **Today's Progress**: Learning Swift UI
+- **Thoughts**: Continue learning swift on sololearn.com
