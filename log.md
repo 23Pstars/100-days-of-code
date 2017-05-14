@@ -402,3 +402,7 @@
 - **Today's Progress**: Progress to my thesis
 - **Thoughts**: Adding some automation in additional script
 - **Link to work**: [Swipe Fingerprint](https://github.com/23Pstars/swipe-fingerprint)
+
+### Day 60: May 14, 2017
+- **Today's Progress**: Progress to elektro08 site
+- **Thoughts**: Refine some gulp and jekyll structures
