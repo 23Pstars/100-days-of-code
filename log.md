@@ -397,3 +397,8 @@
 ### Day 59: May 11, 2017
 - **Today's Progress**: Learning Swift UI
 - **Thoughts**: Continue learning swift on sololearn.com
+
+### Day 60: May 14, 2017
+- **Today's Progress**: Progress to my thesis
+- **Thoughts**: Adding some automation in additional script
+- **Link to work**: [Swipe Fingerprint](https://github.com/23Pstars/swipe-fingerprint)
