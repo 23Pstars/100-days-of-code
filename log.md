@@ -406,3 +406,7 @@
 ### Day 60: May 14, 2017
 - **Today's Progress**: Progress to elektro08 site
 - **Thoughts**: Refine some gulp and jekyll structures
+
+### Day 61: May 18, 2017
+- **Today's Progress**: Progress to LRS Engine
+- **Thoughts**: Adding e-ticket generator inside reservation editor
