@@ -410,3 +410,7 @@
 ### Day 61: May 18, 2017
 - **Today's Progress**: Progress to LRS Engine
 - **Thoughts**: Adding e-ticket generator inside reservation editor
+
+### Day 62: May 19, 2017
+- **Today's Progress**: Learning Python 3
+- **Thoughts**: Start to learning Python on sololearn.com
