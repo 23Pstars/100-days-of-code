@@ -414,3 +414,7 @@
 ### Day 62: May 19, 2017
 - **Today's Progress**: Learning Python 3
 - **Thoughts**: Start to learning Python on sololearn.com
+
+### Day 63: May 22, 2017
+- **Today's Progress**: Build localhost page
+- **Thoughts**: Custom my personal localhost page using VueJS.
