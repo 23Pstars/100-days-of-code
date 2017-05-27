@@ -418,3 +418,8 @@
 ### Day 63: May 22, 2017
 - **Today's Progress**: Build localhost page
 - **Thoughts**: Custom my personal localhost page using VueJS.
+
+### Day 64: May 27, 2017
+- **Today's Progress**: Build personal custom CSS framework
+- **Thoughts**: Just started simple CSS helper class.
+- **Link to work**: [LRS CSS](https://github.com/23Pstars/lrs-css)
