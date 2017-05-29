@@ -423,3 +423,7 @@
 - **Today's Progress**: Build personal custom CSS framework
 - **Thoughts**: Just started simple CSS helper class.
 - **Link to work**: [LRS CSS](https://github.com/23Pstars/lrs-css)
+
+### Day 65: May 29, 2017
+- **Today's Progress**: Learning Python 3
+- **Thoughts**: Continue to learning Python on sololearn.com
