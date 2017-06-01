@@ -427,3 +427,8 @@
 ### Day 65: May 29, 2017
 - **Today's Progress**: Learning Python 3
 - **Thoughts**: Continue to learning Python on sololearn.com
+
+### Day 66: Jun 1, 2017
+- **Today's Progress**: Build WordPress plugin
+- **Thoughts**: WordPress plugin for displaying booking form widget.
+- **Link to work**: [ITO Booking Form](https://github.com/23Pstars/ito-booking-form)
