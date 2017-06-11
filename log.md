@@ -437,3 +437,7 @@
 - **Today's Progress**: Release paypal saldo exchange portal
 - **Thoughts**: Single page app to display info about paypal saldo exchange, with mini form to do conversions.
 - **Link to work**: [SaldoPayPal.id](http://saldopaypal.id)
+
+### Day 68: Jun 11, 2017
+- **Today's Progress**: Learning ReactJS
+- **Thoughts**: Just about to start learning ReactJS.
