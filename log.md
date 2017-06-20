@@ -441,3 +441,8 @@
 ### Day 68: Jun 11, 2017
 - **Today's Progress**: Learning ReactJS
 - **Thoughts**: Just about to start learning ReactJS.
+
+### Day 69: Jun 20, 2017
+- **Today's Progress**: Update ELPSA.org project
+- **Thoughts**: Apply several updates.
+- **Link to work**: [ELPSA.org](https://elpsa.org)
