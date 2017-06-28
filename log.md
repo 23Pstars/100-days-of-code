@@ -446,3 +446,8 @@
 - **Today's Progress**: Update ELPSA.org project
 - **Thoughts**: Apply several updates.
 - **Link to work**: [ELPSA.org](https://elpsa.org)
+
+### Day 69: Jun 28, 2017
+- **Today's Progress**: Update ELPSA.org project
+- **Thoughts**: Add nested comments.
+- **Link to work**: [ELPSA.org](https://elpsa.org)
