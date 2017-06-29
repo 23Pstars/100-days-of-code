@@ -451,3 +451,7 @@
 - **Today's Progress**: Update ELPSA.org project
 - **Thoughts**: Add nested comments.
 - **Link to work**: [ELPSA.org](https://elpsa.org)
+
+### Day 70: Jun 29, 2017
+- **Today's Progress**: Update Mailer module for LRS Engine
+- **Thoughts**: Add option to use SendinBlue transactional mail services.
