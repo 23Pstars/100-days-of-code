@@ -455,3 +455,7 @@
 ### Day 70: Jun 29, 2017
 - **Today's Progress**: Update Mailer module for LRS Engine
 - **Thoughts**: Add option to use SendinBlue transactional mail services.
+
+### Day 71: Jun 30, 2017
+- **Today's Progress**: Update Fastboat module for LRS Engine
+- **Thoughts**: Refine mailing system.
