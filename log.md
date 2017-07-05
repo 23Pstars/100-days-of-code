@@ -459,3 +459,8 @@
 ### Day 71: Jun 30, 2017
 - **Today's Progress**: Update Fastboat module for LRS Engine
 - **Thoughts**: Refine mailing system.
+
+### Day 72: Jul 5, 2017
+- **Today's Progress**: Update ELPSA.org project
+- **Thoughts**: Refine user summary page.
+- **Link to work**: [ELPSA.org](https://elpsa.org)
