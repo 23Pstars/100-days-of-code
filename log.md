@@ -464,3 +464,7 @@
 - **Today's Progress**: Update ELPSA.org project
 - **Thoughts**: Refine user summary page.
 - **Link to work**: [ELPSA.org](https://elpsa.org)
+
+### Day 73: Jul 12, 2017
+- **Today's Progress**: Continue freeCodeCamp
+- **Thoughts**: Build twitch streamers.
