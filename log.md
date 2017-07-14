@@ -468,3 +468,8 @@
 ### Day 73: Jul 12, 2017
 - **Today's Progress**: Continue freeCodeCamp
 - **Thoughts**: Build twitch streamers.
+
+### Day 74: Jul 14, 2017
+- **Today's Progress**: Update lrsoft-docs
+- **Thoughts**: Add Web Assets documentations.
+- **Link to work**: [lrsoft-docs](http://docs.lrsoft.id)
