@@ -473,3 +473,8 @@
 - **Today's Progress**: Update lrsoft-docs
 - **Thoughts**: Add Web Assets documentations.
 - **Link to work**: [lrsoft-docs](http://docs.lrsoft.id)
+
+### Day 75: Jul 15, 2017
+- **Today's Progress**: Build landing page for INDOTRAVELONLINE
+- **Thoughts**: Craft single-page web using gulp bulid.
+- **Link to work**: [ITO](http://ito.co.id)
