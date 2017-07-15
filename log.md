@@ -478,3 +478,8 @@
 - **Today's Progress**: Build landing page for INDOTRAVELONLINE
 - **Thoughts**: Craft single-page web using gulp bulid.
 - **Link to work**: [ITO](http://ito.co.id)
+
+### Day 75: Jul 15, 2017
+- **Today's Progress**: Landing page for INDOTRAVELONLINE
+- **Thoughts**: Just completed the landing page.
+- **Link to work**: [ITO](http://ito.co.id)
