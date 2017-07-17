@@ -483,3 +483,7 @@
 - **Today's Progress**: Landing page for INDOTRAVELONLINE
 - **Thoughts**: Just completed the landing page.
 - **Link to work**: [ITO](http://ito.co.id)
+
+### Day 76: Jul 17, 2017
+- **Today's Progress**: Learn Delphi
+- **Thoughts**: Finally, just learn my first Delphi by helping my brother solve their college homeworks.
