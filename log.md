@@ -487,3 +487,8 @@
 ### Day 76: Jul 17, 2017
 - **Today's Progress**: Learn Delphi
 - **Thoughts**: Finally, just learn my first Delphi by helping my brother solve their college homeworks.
+
+### Day 77: Jul 28, 2017
+- **Today's Progress**: DB Migration
+- **Thoughts**: Continue migrating university data from previous system.
+- **Link to work**: [SIA UNRAM](https://sia.unram.ac.id)
