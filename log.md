@@ -492,3 +492,8 @@
 - **Today's Progress**: DB Migration
 - **Thoughts**: Continue migrating university data from previous system.
 - **Link to work**: [SIA UNRAM](https://sia.unram.ac.id)
+
+### Day 78: Jul 30, 2017
+- **Today's Progress**: Update ELPSA.org project
+- **Thoughts**: Fixing some bugs in email transactions.
+- **Link to work**: [ELPSA.org](https://elpsa.org)
