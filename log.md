@@ -497,3 +497,8 @@
 - **Today's Progress**: Update ELPSA.org project
 - **Thoughts**: Fixing some bugs in email transactions.
 - **Link to work**: [ELPSA.org](https://elpsa.org)
+
+### Day 79: Aug 1, 2017
+- **Today's Progress**: Update Fast Boat system
+- **Thoughts**: Adding some features.
+- **Link to work**: [Lombok Fast Boats](https://www.lombokfastboats.com)
