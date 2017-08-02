@@ -502,3 +502,8 @@
 - **Today's Progress**: Update Fast Boat system
 - **Thoughts**: Adding some features.
 - **Link to work**: [Lombok Fast Boats](https://www.lombokfastboats.com)
+
+### Day 80: Aug 2, 2017
+- **Today's Progress**: Update ELPSA.org project
+- **Thoughts**: Adding some core features.
+- **Link to work**: [ELPSA.org](https://elpsa.org)
