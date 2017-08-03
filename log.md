@@ -507,3 +507,8 @@
 - **Today's Progress**: Update ELPSA.org project
 - **Thoughts**: Adding some core features.
 - **Link to work**: [ELPSA.org](https://elpsa.org)
+
+### Day 81: Aug 3, 2017
+- **Today's Progress**: Update ELPSA.org project
+- **Thoughts**: Add reschedule group member.
+- **Link to work**: [ELPSA.org](https://elpsa.org)
