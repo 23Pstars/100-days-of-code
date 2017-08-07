@@ -512,3 +512,8 @@
 - **Today's Progress**: Update ELPSA.org project
 - **Thoughts**: Add reschedule group member.
 - **Link to work**: [ELPSA.org](https://elpsa.org)
+
+### Day 82: Aug 7, 2017
+- **Today's Progress**: Update ELPSA.org project
+- **Thoughts**: Refine notification on every discussion posts.
+- **Link to work**: [ELPSA.org](https://elpsa.org)
