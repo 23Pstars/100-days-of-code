@@ -517,3 +517,8 @@
 - **Today's Progress**: Update ELPSA.org project
 - **Thoughts**: Refine notification on every discussion posts.
 - **Link to work**: [ELPSA.org](https://elpsa.org)
+
+### Day 83: Aug 13, 2017
+- **Today's Progress**: SIA UNRAM DB Migration
+- **Thoughts**: Continue migrate academic DB from previous system.
+- **Link to work**: [SIA UNRAM](https://sia.unram.ac.id)
