@@ -522,3 +522,7 @@
 - **Today's Progress**: SIA UNRAM DB Migration
 - **Thoughts**: Continue migrate academic DB from previous system.
 - **Link to work**: [SIA UNRAM](https://sia.unram.ac.id)
+
+### Day 84: Aug 14, 2017
+- **Today's Progress**: Build skeleton for Indonesian Air Force
+- **Thoughts**: Start from scratch pilot's scoring system analyzer.
