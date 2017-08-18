@@ -526,3 +526,8 @@
 ### Day 84: Aug 14, 2017
 - **Today's Progress**: Build skeleton for Indonesian Air Force
 - **Thoughts**: Start from scratch pilot's scoring system analyzer.
+
+### Day 85: Aug 18, 2017
+- **Today's Progress**: Init new LRS Engine Module
+- **Thoughts**: Progress to Module Shop.
+- **Link to work**: [LRsoft Corp.](https://lrsoft.co.id)
