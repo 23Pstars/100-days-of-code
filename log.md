@@ -531,3 +531,8 @@
 - **Today's Progress**: Init new LRS Engine Module
 - **Thoughts**: Progress to Module Shop.
 - **Link to work**: [LRsoft Corp.](https://lrsoft.co.id)
+
+### Day 86: Aug 19, 2017
+- **Today's Progress**: Update some skin
+- **Thoughts**: Add homepage welcome text on komowosisata skin.
+- **Link to work**: [LRsoft Corp.](https://lrsoft.co.id)
