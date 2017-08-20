@@ -536,3 +536,18 @@
 - **Today's Progress**: Update some skin
 - **Thoughts**: Add homepage welcome text on komowosisata skin.
 - **Link to work**: [LRsoft Corp.](https://lrsoft.co.id)
+
+### Day 87: Aug 20, 2017
+- **Today's Progress**: Update LRS API
+- **Thoughts**: Add boat logo and photo for Boat Price API.
+- **Link to work**: [LRsoft Corp.](https://lrsoft.co.id)
+
+### Day 87: Aug 20, 2017
+- **Today's Progress**: Add feature on ELPSA.org
+- **Thoughts**: Add statistics page.
+- **Link to work**: [ELPSA.org](https://elpsa.org)
+
+### Day 88: Aug 21, 2017
+- **Today's Progress**: Update ELPSA.org
+- **Thoughts**: Add more statistic items on the page.
+- **Link to work**: [ELPSA.org](https://elpsa.org)
