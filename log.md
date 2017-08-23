@@ -551,3 +551,8 @@
 - **Today's Progress**: Update ELPSA.org
 - **Thoughts**: Add more statistic items on the page.
 - **Link to work**: [ELPSA.org](https://elpsa.org)
+
+### Day 89: Aug 23, 2017
+- **Today's Progress**: Update LRS Engine
+- **Thoughts**: Finished CRUD for Items and Categories in Shop module..
+- **Link to work**: [LRsoft Corp.](https://lrsoft.co.id)
