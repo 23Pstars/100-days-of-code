@@ -556,3 +556,8 @@
 - **Today's Progress**: Update LRS Engine
 - **Thoughts**: Finished CRUD for Items and Categories in Shop module..
 - **Link to work**: [LRsoft Corp.](https://lrsoft.co.id)
+
+### Day 90: Aug 29, 2017
+- **Today's Progress**: Update SaldoPayPal.id
+- **Thoughts**: Add form booking with sending mail automatically.
+- **Link to work**: [SaldoPayPal.id](https://saldopaypal.id)
