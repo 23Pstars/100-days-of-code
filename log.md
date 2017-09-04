@@ -561,3 +561,8 @@
 - **Today's Progress**: Update SaldoPayPal.id
 - **Thoughts**: Add form booking with sending mail automatically.
 - **Link to work**: [SaldoPayPal.id](https://saldopaypal.id)
+
+### Day 91: Sep 4, 2017
+- **Today's Progress**: Update SaldoPayPal.id
+- **Thoughts**: Update meta descriptions.
+- **Link to work**: [SaldoPayPal.id](https://saldopaypal.id)
