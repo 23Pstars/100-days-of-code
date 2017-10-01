@@ -566,3 +566,8 @@
 - **Today's Progress**: Update SaldoPayPal.id
 - **Thoughts**: Update meta descriptions.
 - **Link to work**: [SaldoPayPal.id](https://saldopaypal.id)
+
+### Day 92: Oct 1, 2017
+- **Today's Progress**: Adreach blocker chrome extension
+- **Thoughts**: Create extension to block and bypass ads request from ISP.
+- **Link to work**: [Adreach Blocker](https://github.com/23Pstars/adreach-blocker)
