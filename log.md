@@ -571,3 +571,13 @@
 - **Today's Progress**: Adreach blocker chrome extension
 - **Thoughts**: Create extension to block and bypass ads request from ISP.
 - **Link to work**: [Adreach Blocker](https://github.com/23Pstars/adreach-blocker)
+
+### Day 92: Oct 8, 2017
+- **Today's Progress**: Update SaldoPayPal.id
+- **Thoughts**: Store transaction lists on `JSON` file, then display the total.
+- **Link to work**: [SaldoPayPal.id](https://saldopaypal.id)
+
+### Day 92: Oct 8, 2017
+- **Today's Progress**: Migrate deprecated `mysql_*()` to PDO
+- **Thoughts**: Porting DB connection in all files to use PDO DB driver.
+- **Link to work**: [SIA UNRAM](https://sia.unram.ac.id)
